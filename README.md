@@ -1,6 +1,7 @@
 # cop-3710-Amazon-Inventory
 
 Application Domain:
+  
   Database for Amazon product data and analytics like reviews and ratings.
 
 High-Level Goals:
