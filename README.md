@@ -9,7 +9,9 @@ High-Level Goals:
   - Search analyzer
 
 Users:
-  - 
+  - Amazon
+  - Companies selling products on Amazon
+  - Amazon's competitiors
 
 Data Sources:
   - 
