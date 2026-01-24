@@ -14,4 +14,6 @@ Users:
   - Amazon's competitiors
 
 Data Sources:
-  - 
+  - https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+  - https://amazon-reviews-2023.github.io/
+  - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
