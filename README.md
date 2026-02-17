@@ -4,6 +4,7 @@ Application Domain:
     Database for Amazon product data and analytics like reviews and ratings.
 
 High-Level Goals:
+  - Product metadata analyzer
   - Review/rating analyzer
   - Sales history analyzer
   - Search analyzer
