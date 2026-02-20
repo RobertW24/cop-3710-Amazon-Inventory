@@ -18,3 +18,6 @@ Data Sources:
   - https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
+
+Database Application:
+    I will use oracle as a database and my applications will be developed in python.
