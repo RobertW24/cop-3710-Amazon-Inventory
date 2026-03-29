@@ -7,7 +7,6 @@ High-Level Goals:
   - Product metadata analyzer
   - Review/rating analyzer
   - Sales history analyzer
-  - Search analyzer
 
 Users:
   - Amazon
