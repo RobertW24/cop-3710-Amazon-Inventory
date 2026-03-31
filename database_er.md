@@ -1,4 +1,6 @@
-<img width="1082" height="392" alt="image" src="https://github.com/user-attachments/assets/0dfe9d01-7ba6-49df-85cc-72094bca1003" />
+Final ER Diagram:
+<img width="1138" height="412" alt="image" src="https://github.com/user-attachments/assets/9b96614a-e661-4ff3-9c1e-28ce26c6cc69" />
+
 
 
 
