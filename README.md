@@ -18,5 +18,8 @@ Data Sources:
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
+Databse desing
+[link](databse_er.md) 
+
 Database Application:
     I will use oracle as a database and my applications will be developed in python.
