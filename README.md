@@ -18,10 +18,16 @@ Data Sources:
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
-Databse desing
-[link](databse_er.md) 
+Databse Design:
+[link](databse_er.md)
 
-Creating the Schema
-Use the sql scripy named, create_db.sql to genrate the schame for the ER deghn. [link](databse_er.md) 
+Creating the Schema:
+Use the sql script named, "create_db.sql" to generate the schema for the ER design.
+[link](create_db.sql)
+
+Data:
+Use the csv files in the "data" file as the data files.
+[link](data)
+
 Database Application:
     I will use oracle as a database and my applications will be developed in python.
