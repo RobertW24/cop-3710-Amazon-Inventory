@@ -38,4 +38,4 @@ Data:
 
 
 Database Application:
-    I will use oracle as a database and my applications will be developed in python.
+- I will use oracle as a database and my applications will be developed in python.
