@@ -32,9 +32,13 @@ Creating the Schema:
 
 Data:
 
-- Use the csv files in the "data" folder as the data files.
+- Use the CSV files in the "data" folder as the data files.
 
 - [link](data)
+
+Loading the Data:
+- Use the file named "dataload.py" to load all the CSV files into the database tables.
+- [link]()
 
 
 Database Application:
