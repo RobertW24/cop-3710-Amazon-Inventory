@@ -21,5 +21,7 @@ Data Sources:
 Databse desing
 [link](databse_er.md) 
 
+Creating the Schema
+Use the sql scripy named, create_db.sql to genrate the schame for the ER deghn. [link](databse_er.md) 
 Database Application:
     I will use oracle as a database and my applications will be developed in python.
