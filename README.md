@@ -38,7 +38,7 @@ Data:
 
 Loading the Data:
 - Use the file named "dataload.py" to load all the CSV files into the database tables.
-- [link]()
+- [link](dataload.py)
 
 
 Database Application:
