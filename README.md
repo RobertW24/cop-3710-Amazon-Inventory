@@ -25,7 +25,7 @@ Databse Design:
 
 Creating the Schema:
 
-- Use the sql script named "create_db.sql" to generate the schema for the ER design.
+- Use the SQL script named "create_db.sql" to generate the schema for the ER design.
 
 - [link](create_db.sql)
 
