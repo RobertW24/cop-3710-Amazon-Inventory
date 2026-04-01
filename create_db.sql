@@ -1,10 +1,3 @@
-BEGIN
-  FOR c IN (SELECT table_name FROM user_tables) LOOP
-    EXECUTE IMMEDIATE ('DROP TABLE "' || c.table_name || '" CASCADE CONSTRAINTS');
-  END LOOP;
-END;
-/
-
 CREATE TABLE supplier (
 sup_id NUMBER PRIMARY KEY NOT NULL,
 sup_name VARCHAR2(20) NOT NULL,
