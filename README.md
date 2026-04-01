@@ -32,7 +32,7 @@ Creating the Schema:
 
 Data:
 
-- Use the csv files in the "data" file as the data files.
+- Use the csv files in the "data" folder as the data files.
 
 - [link](data)
 
