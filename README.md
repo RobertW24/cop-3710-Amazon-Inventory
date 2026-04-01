@@ -19,7 +19,7 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 Databse Design:
-[link](databse_er.md)
+[link](database_er.md)
 
 Creating the Schema:
 Use the sql script named, "create_db.sql" to generate the schema for the ER design.
