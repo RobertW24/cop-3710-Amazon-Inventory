@@ -6,7 +6,7 @@ Application Domain:
 High-Level Goals:
   - Product metadata analyzer
   - Review/rating analyzer
-  - Sales history analyzer
+  - Supplier information analyzer
 
 Users:
   - Amazon
