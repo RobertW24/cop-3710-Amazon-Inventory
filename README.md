@@ -20,21 +20,21 @@ Data Sources:
 
 Databse Design:
 
-[link](database_er.md)
+- [link](database_er.md)
 
 
 Creating the Schema:
 
-Use the sql script named, "create_db.sql" to generate the schema for the ER design.
+- Use the sql script named, "create_db.sql" to generate the schema for the ER design.
 
-[link](create_db.sql)
+- [link](create_db.sql)
 
 
 Data:
 
-Use the csv files in the "data" file as the data files.
+- Use the csv files in the "data" file as the data files.
 
-[link](data)
+- [link](data)
 
 
 Database Application:
