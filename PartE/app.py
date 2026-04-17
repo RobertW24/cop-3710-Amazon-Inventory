@@ -60,7 +60,7 @@ def menu():
         elif choice == "4":
             prod_id = input("Enter product ID: ")
             run_query("""
-                SELECT c.cus_name, r.rating, r.comment
+                SELECT c.cus_name, r.rating, r.rev_title, r.rev_body
                 FROM review r
                 JOIN customer c ON r.cus_id = c.cus_id
                 WHERE r.prod_id = :pid
