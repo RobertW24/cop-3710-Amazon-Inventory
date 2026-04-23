@@ -34,6 +34,16 @@ Data Sources:
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
+Summary:
+- 
+
+Application Features:
+- 1. View all products with suppliers
+- 2. View products with pricing
+- 3. Search product by name
+- 4. View product reviews
+- 5. Average rating per product
+
 Database Design:
 - [database_er.md](database_er.md)
 
