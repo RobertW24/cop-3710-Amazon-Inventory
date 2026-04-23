@@ -1,6 +1,0 @@
-Disclaimer: Program developed with Oracle SQL in mind.
-1) Download app.py .
-2) Edit the database system login stuff.
-3) Copy in address of Oracle instantclient
-4) Open Command Prompt. Run the program using the file address. [py "C:\Users\mtkg8\OneDrive\Desktop\Database Project\PartE\app.py"].
-5) Have fun :).
