@@ -1,6 +1,7 @@
 # cop-3710-Amazon-Inventory
 
 **Amazon Product Metadata, Reviews, & Supplier Database**
+- 
 
 Problem Statement:
 - I want to create a database with an application that can ... **(FINISH AFTER SUMMARY)**
@@ -35,7 +36,7 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 Summary:
-- 
+- I
 
 Application Features:
 - 1. View all products with suppliers
@@ -49,6 +50,7 @@ Database Design:
 
 
 **HOW TO USE THIS REPO:**
+- 
 
 - Step 1:
   - Creating the Schema:
