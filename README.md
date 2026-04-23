@@ -7,7 +7,7 @@ Problem Statement:
 
 My Roles:
   - Solution Architect
-  - Designer
+  - Database Designer
   - Database Administrator
 
 Partner's Role (Mathew King):
