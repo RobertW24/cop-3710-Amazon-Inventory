@@ -23,7 +23,7 @@ Data Sources:
 
 Database Design:
 
-- [link](database_er.md)
+- [database_er.md](database_er.md)
 
 
 **HOW TO USE THIS REPO:**
@@ -38,12 +38,12 @@ Creating the Schema:
 
 Loading the Data:
 - Use the file named "dataload.py" to load all the CSV files into the database tables.
-- [link](dataload.py)
+- [dataload.py](dataload.py)
     - Use the CSV files in the "data" folder as the data files.
-    - [link](data)
+    - [data](data)
 
 
 Running the Application:
 - Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
-- [link](Part_E)
+- [Part_E](Part_E)
 
