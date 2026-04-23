@@ -23,6 +23,8 @@ Database Design:
 - [link](database_er.md)
 
 
+**HOW TO USE THIS REPO:**
+
 Creating the Schema:
 
 - Use the SQL script named "create_db.sql" to generate the schema for the ER design.
@@ -39,6 +41,10 @@ Data:
 Loading the Data:
 - Use the file named "dataload.py" to load all the CSV files into the database tables.
 - [link](dataload.py)
+
+Running the Application:
+- Use the file named "app.py" to run the application and use the features.
+- [link](app.py)
 
 
 Database Application:
