@@ -47,5 +47,5 @@ Loading the Data:
 
 Running the Application:
 - Use the file named "app.py" to run the application and use the features.
-- [link](PartE)
+- [link](Part_E)
 
