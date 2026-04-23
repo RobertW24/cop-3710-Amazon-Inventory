@@ -27,8 +27,8 @@ Database Design:
 
 **HOW TO USE THIS REPO:**
 
-  <u>Step 1:
-    Creating the Schema:
+  Step 1:
+  - Creating the Schema:
     - Use the SQL script named "create_db.sql" to generate the schema for the ER design.
     - [create_db.sql](create_db.sql)
 
