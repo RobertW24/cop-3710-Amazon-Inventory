@@ -35,9 +35,9 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 Summary:
-  - First, I designed an er diagram for the database with the following tables: product, product_info, price, supplier, review, and customer.
+  - First, I designed an ER diagram for my database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, I created the sql script to generate the tables.
-  - Then, I manually created each csv file using the database data from my sources.
+  - Then, I manually created each csv file using the data from my sources.
   - Then, I wrote the dataload python code to insert all of the data from my csv files into the tables I created previously.
   - Finally, I wrote the application python code and implemented 5 features for my partner's database project and my partner did the same for mine.
 
