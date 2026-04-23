@@ -37,7 +37,9 @@ Data Sources:
 Summary:
   - First, I designed an er diagram for the database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, I created the sql script to generate the tables.
-  - Then, I went
+  - Then, I manually created each csv file using the database data from my sources.
+  - Then, I wrote the dataload python code to insert all of the data from my csv files into the tables I created previously.
+  - Finally, I wrote the application python code and implemented 5 features for my partner's database project and my partner did the same for mine.
 
 Application Features:
   - 1. View all products with suppliers
