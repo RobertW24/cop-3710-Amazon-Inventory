@@ -1,5 +1,18 @@
 # cop-3710-Amazon-Inventory
 
+**Amazon Product Metadata, Reviews, & Supplier Database**
+
+Problem Statement:
+- I want to create a database with an application that can **(FINISH AFTER SUMMARY)**
+
+My Roles:
+- Solution Architect
+- Designer
+- Database Administrator
+
+Partner's Role (Mathew King):
+- Application Developer
+
 Application Domain:
 - Database for Amazon product data and analytics like reviews and ratings.
 
