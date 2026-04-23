@@ -1,24 +1,23 @@
 # cop-3710-Amazon-Inventory
 
-**Amazon Product Metadata, Reviews, & Supplier Database**
-- 
+# **Amazon Product Metadata, Reviews, & Supplier Database**
 
 Problem Statement:
-- I want to create a database with an application that can ... **(FINISH AFTER SUMMARY)**
+  - I want to create a database with an application that can ... **(FINISH AFTER SUMMARY)**
 
 My Roles:
-- Solution Architect
-- Designer
-- Database Administrator
+  - Solution Architect
+  - Designer
+  - Database Administrator
 
 Partner's Role (Mathew King):
-- Application Developer
+  - Application Developer
 
 Application Domain:
-- Database for Amazon product data and analytics like reviews and ratings.
+  - Database for Amazon product data and analytics like reviews and ratings.
 
 Database Application:
-- I will use oracle as a database and my applications will be developed in python.
+  - I will use oracle as a database and my applications will be developed in python.
 
 High-Level Goals:
   - Product metadata analyzer
@@ -36,21 +35,22 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 Summary:
-- I
+  - First, I designed an er diagram for the database with the following tables: product, product_info, price, supplier, review, and customer.
+  - Next, I created the sql script to generate the tables.
+  - Then, I went
 
 Application Features:
-- 1. View all products with suppliers
-- 2. View products with pricing
-- 3. Search product by name
-- 4. View product reviews
-- 5. Average rating per product
+  - 1. View all products with suppliers
+  - 2. View products with pricing
+  - 3. Search product by name
+  - 4. View product reviews
+  - 5. Average rating per product
 
 Database Design:
-- [database_er.md](database_er.md)
+  - [database_er.md](database_er.md)
 
 
-**HOW TO USE THIS REPO:**
-- 
+# **HOW TO USE THIS REPO:**
 
 - Step 1:
   - Creating the Schema:
