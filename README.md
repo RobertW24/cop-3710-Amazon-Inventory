@@ -36,8 +36,8 @@ Database Design:
   - Loading the Data:
     - Use the file named "dataload.py" to load all the CSV files into the database tables.
       - [dataload.py](dataload.py)
-    - Use the CSV files in the "data" folder as the data files.
-      - [data](data)
+      - Use the CSV files in the "data" folder as the data files.
+        - [data](data)
     - In dataload.py, swap out the instant client path, username, password, and dsn for your own.
     - Make sure you are the the correct file address and run the dataload with "python dataload.py".
 
