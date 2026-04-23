@@ -46,6 +46,6 @@ Loading the Data:
 - [link](dataload.py)
 
 Running the Application:
-- Use the file named "app.py" to run the application and use the features.
+- Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
 - [link](Part_E)
 
