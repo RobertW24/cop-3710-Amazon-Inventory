@@ -33,7 +33,7 @@ Creating the Schema:
 
 - Use the SQL script named "create_db.sql" to generate the schema for the ER design.
 
-- [link](create_db.sql)
+- [create_db.sql](create_db.sql)
 
 
 Loading the Data:
