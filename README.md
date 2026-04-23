@@ -22,28 +22,25 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 Database Design:
-
 - [database_er.md](database_er.md)
 
 
 **HOW TO USE THIS REPO:**
 
-
-Creating the Schema:
-
-- Use the SQL script named "create_db.sql" to generate the schema for the ER design.
-
-- [create_db.sql](create_db.sql)
+  <u>Step 1:
+    Creating the Schema:
+    - Use the SQL script named "create_db.sql" to generate the schema for the ER design.
+    - [create_db.sql](create_db.sql)
 
 
-Loading the Data:
-- Use the file named "dataload.py" to load all the CSV files into the database tables.
-- [dataload.py](dataload.py)
+  Loading the Data:
+  - Use the file named "dataload.py" to load all the CSV files into the database tables.
+  - [dataload.py](dataload.py)
     - Use the CSV files in the "data" folder as the data files.
     - [data](data)
 
 
-Running the Application:
-- Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
-- [Part_E](Part_E)
+  Running the Application:
+  - Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
+  - [Part_E](Part_E)
 
