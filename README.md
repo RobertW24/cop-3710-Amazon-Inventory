@@ -3,6 +3,9 @@
 Application Domain:
 - Database for Amazon product data and analytics like reviews and ratings.
 
+Database Application:
+- I will use oracle as a database and my applications will be developed in python.
+
 High-Level Goals:
   - Product metadata analyzer
   - Review/rating analyzer
@@ -46,6 +49,3 @@ Running the Application:
 - Use the file named "app.py" to run the application and use the features.
 - [link](PartE)
 
-
-Database Application:
-- I will use oracle as a database and my applications will be developed in python.
