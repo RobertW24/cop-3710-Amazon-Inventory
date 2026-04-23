@@ -3,7 +3,7 @@
 **Amazon Product Metadata, Reviews, & Supplier Database**
 
 Problem Statement:
-- I want to create a database with an application that can **(FINISH AFTER SUMMARY)**
+- I want to create a database with an application that can ... **(FINISH AFTER SUMMARY)**
 
 My Roles:
 - Solution Architect
