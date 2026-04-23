@@ -39,12 +39,13 @@ Database Design:
     - Use the CSV files in the "data" folder as the data files.
       - [data](data)
     - In dataload.py, swap out the instant client path, username, password, and dsn for your own.
+    - Make sure you are the the correct file address and run the dataload with "python dataload.py".
 
 - Step 3:
   - Running the Application:
     - Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
       - [Part_E](Part_E)
     - In app.py, swap out the instant client path, username, password, and dsn for your own.
-    - If you do not have streamlit installed, enter this into the terminal "pip install streamlit"
-    - Run the application with "Python -m streamlit run app.py"
+    - If you do not have streamlit installed, enter this into the terminal "pip install streamlit".
+    - Make sure you are the the correct file address and run the application with "Python -m streamlit run app.py".
 
