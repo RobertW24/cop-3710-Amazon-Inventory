@@ -18,7 +18,7 @@ Data Sources:
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
-Databse Design:
+Database Design:
 
 - [link](database_er.md)
 
