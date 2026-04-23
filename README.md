@@ -49,3 +49,6 @@ Database Design:
     - If you do not have streamlit installed, enter this into the terminal "pip install streamlit".
     - Make sure you are the the correct file address and run the application with "Python -m streamlit run app.py".
 
+<img width="532" height="322" alt="image" src="https://github.com/user-attachments/assets/9a9545d1-9311-476e-8901-b3c95e85b968" />
+
+
