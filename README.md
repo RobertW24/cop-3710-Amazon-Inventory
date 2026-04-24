@@ -58,9 +58,9 @@ Summary:
   - Finally, I wrote the application python code and implemented 5 features for my partner's database project and my partner did the same for mine.
 
 Summary:
-  - First, an ER diagram is designed for the database with the following tables: product, product_info, price, supplier, review, and customer.
+  - First, based on the scenario, an ER diagram is designed for the database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, the sql script is created to generate the tables.
-  - Then, each csv file is created manually using the data from the sources.
+  - Then, each csv file is created manually using the data from any sources provided.
   - Then, the dataload python code is written to insert all of the data from the csv files into the tables created previously.
   - Finally, the application python code is written and 5 features are implemented.
 
