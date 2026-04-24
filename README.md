@@ -2,14 +2,8 @@
 
 # **Amazon Product Metadata, Reviews, & Supplier Database**
 
-
-
-Problem Statement:
-  - I want to create a database with an application that can retrieve certain products, certain product metadata/reviews, and products with specific metadata/ratings.
-
 Problem Statement:
   - A database with an application that can retrieve certain products, certain product metadata/reviews, and products with specific metadata/ratings will be created.
-
 
 
 Roles:
@@ -20,18 +14,12 @@ Roles:
 Partner's Role (Mathew King):
   - Application Developer
 
+
 Application Domain:
-  - Database for Amazon product data and analytics like reviews and ratings.
-
-
+  - Database for Amazon product data, analytics like reviews and ratings, & supplier information.
 
 Database Application:
-  - I will use oracle as a database and my application will be developed in python.
-
-Database Application:
-  - Oracle will be used as a database as a database and the application will be developed in python.
-
-
+  - Oracle will be used as a database and the application will be developed in python.
 
 High-Level Goals:
   - Product metadata analyzer
@@ -49,24 +37,15 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 
-
-Summary:
-  - First, I designed an ER diagram for my database with the following tables: product, product_info, price, supplier, review, and customer.
-  - Next, I created the sql script to generate the tables.
-  - Then, I manually created each csv file using the data from my sources.
-  - Then, I wrote the dataload python code to insert all of the data from my csv files into the tables I created previously.
-  - Finally, I wrote the application python code and implemented 5 features for my partner's database project and my partner did the same for mine.
-
 Summary:
   - First, based on a scenario, an ER diagram is designed for a database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, a database schema is created to generate a corresponding database.
-  - Then, each csv file is created manually using the data from any sources provided.
-  - Then, the dataload python code is written to insert all of the data from the csv files into the tables created previously.
-  - Finally, the application python code is written and 5 features are implemented.
+  - Then, csv files are created manually using data from any sources provided.
+  - Then, a dataload python code is written to insert data from corresponding csv files into the previously-created database.
+  - Finally, an application python code is written and 5 features are implemented.
 
 
-
-Application Features for My Database:
+Application Features:
   - 1. View all products with suppliers
   - 2. View products with pricing
   - 3. Search product by name
