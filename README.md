@@ -19,7 +19,7 @@ Application Domain:
   - Database for Amazon product data, analytics like reviews and ratings, & supplier information.
 
 Database Application:
-  - Oracle will be used as a database and the application will be developed in python.
+  - Oracle will be used as a database and an application will be developed in python.
 
 High-Level Goals:
   - Product metadata analyzer
