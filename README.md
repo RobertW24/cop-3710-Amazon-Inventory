@@ -13,8 +13,10 @@ Roles:
 
 Partner's Role (Mathew King):
   - Application Developer
+
 <br>
 <br>
+
 Application Domain:
   - Database for Amazon product data, analytics like reviews and ratings, & supplier information.
 
