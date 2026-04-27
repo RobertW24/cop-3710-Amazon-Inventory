@@ -77,7 +77,7 @@ Database Design:
     - Use the file named "app.py" in the "Part_E" folder to run the application and use the features.
       - [Part_E](Part_E)
     - In app.py, swap out the instant client path, username, password, and dsn for the user's own.
-    - If streamlit is not installed, enter this into the terminal "pip install streamlit".
+    - If streamlit is not installed, enter this into the terminal, "pip install streamlit".
     - Make sure the correct file address is chosen and run the application with "Python -m streamlit run app.py".
 
 <img width="532" height="322" alt="image" src="https://github.com/user-attachments/assets/9a9545d1-9311-476e-8901-b3c95e85b968" />
