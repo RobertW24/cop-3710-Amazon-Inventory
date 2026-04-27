@@ -40,8 +40,8 @@ Data Sources:
 Summary:
   - First, based on a scenario, an ER diagram is designed for a database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, a database schema is created to generate a corresponding database.
-  - Then, csv files are created manually using data from any sources provided.
-  - Then, a dataload python code is written to insert data from corresponding csv files into the previously-created database.
+  - Then, CSV files are created manually using data from any sources provided.
+  - Then, a dataload python code is written to insert data from corresponding CSV files into the previously-created database.
   - Finally, an application python code is written and 5 features are implemented.
 
 
