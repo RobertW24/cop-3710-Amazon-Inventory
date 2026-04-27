@@ -38,6 +38,7 @@ Data Sources:
   - https://amazon-reviews-2023.github.io/
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
+<br>
 
 # Summary:
   - First, based on a scenario, an ER diagram is designed for a database with the following tables: product, product_info, price, supplier, review, and customer.
