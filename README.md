@@ -37,7 +37,7 @@ Data Sources:
   - https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 
-Summary:
+# Summary & Application Features:
   - First, based on a scenario, an ER diagram is designed for a database with the following tables: product, product_info, price, supplier, review, and customer.
   - Next, a database schema is created to generate a corresponding database.
   - Then, CSV files are created manually using data from any sources provided.
